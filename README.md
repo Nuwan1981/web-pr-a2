@@ -1,1 +1,1 @@
-https://github.com/Nuwan1981/web-pr-a2/index.html
+https://nuwan1981.github.io/web-pr-a2/index.html
